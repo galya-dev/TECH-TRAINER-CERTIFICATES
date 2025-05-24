@@ -13,6 +13,7 @@ Dedicated to innovation, learning, and sharing knowledge in technology and educa
 - 🎓 **CS50x – Introduction to Computer Science**  
   *HarvardX — 2025*
 📄 [View Certificate](./CS50x_Certificate.jpg)
+🏛️ CS50x is Harvard University's official introduction to computer science, offered through edX, and recognized worldwide as a rigorous and prestigious program.
 
 - 🛰️ **Drone Making and Coding Certificate**  
   *Altın Kariyer Akademi — 2024*
@@ -29,6 +30,10 @@ Dedicated to innovation, learning, and sharing knowledge in technology and educa
 - 📱 **Digital Marketing Certificate**  
   *Altın Kariyer Akademi — 2024*
   📄 [View Certificate](./DIJITAL_PAZARLAMA_CERTIFICATE.pdf)
+  
+  🌍 These certificates reflect a learning journey across two nations:  
+🇰🇿 Kazakhstan — my homeland, my roots, and where I teach and inspire  
+🇹🇷 Turkey — where I gained international certified training in AI, Python, and technology
 
 ## 📩 Contact
 
