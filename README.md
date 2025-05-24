@@ -12,18 +12,23 @@ Dedicated to innovation, learning, and sharing knowledge in technology and educa
 
 - 🎓 **CS50x – Introduction to Computer Science**  
   *HarvardX — 2025*
+📄 [View Certificate](./CS50x_Certificate.jpg)
 
 - 🛰️ **Drone Making and Coding Certificate**  
   *Altın Kariyer Akademi — 2024*
+📄 [View Certificate](./DRONE_CERTIFICATE.pdf)
 
 - 💻 **Python Coding Certificate**  
   *Melik Vatan Academy — 2024*
+📄 [View Certificate](./PYTHON_certificate.pdf)
 
 - ✍️ **Prompt Engineering Certificate**  
   *Melik Vatan Academy — 2024*
+📄 [View Certificate](./PROMPT_certificate.pdf)
 
 - 📱 **Digital Marketing Certificate**  
   *Altın Kariyer Akademi — 2024*
+  📄 [View Certificate](./DIJITAL_PAZARLAMA_CERTIFICATE.pdf)
 
 ## 📩 Contact
 
