@@ -1,6 +1,6 @@
 # 📂 TECH-TRAINER-CERTIFICATES
 
-A collection of professional certificates earned by **Galya Sarikaya** during 2024–2025.  
+A collection of professional certificates earned by **galya-dev** during 2024–2025.  
 As a certified tech educator, I’ve successfully completed a range of technology and teaching programs in AI, Python, drone technologies, and digital marketing.
 
 ## 👩‍🏫 About Me
