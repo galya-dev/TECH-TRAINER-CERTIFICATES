@@ -30,7 +30,7 @@ Altın Kariyer Akademi — 2024 📄 View Certificate
 📄 DIJITAL PAZARLAMA (PDF)
 
 🧠 **Software and Web Expertise Training**  
-  *Altın Kariyer Akademi — 2024* 📄 View Certificate  
+  *Altın Kariyer Akademi — 2025* 📄 View Certificate  
   [📄 SOFTWARE-WEB certificate (PDF)](./SOFTWARE-WEB-CERTIFICATE.pdf)
 
 
