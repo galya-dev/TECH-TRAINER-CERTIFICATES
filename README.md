@@ -39,7 +39,7 @@ Dedicated to innovation, learning, and sharing knowledge in technology and educa
 
 GitHub: [@galya-dev](https://github.com/galya-dev)  
 Email: devgalyas@gmail.com  
-🌐 Portfolio: [GALYA SARIKAYA – Certified Tech Trainer](https://galya-dev.github.io/TECH-TRAINER-CERTIFICATES/)
+🌐 Visit my full portfolio: [GALYA SARIKAYA – Certified Tech Trainer](https://galya-dev.github.io/TECH-TRAINER-CERTIFICATES/)
 
 💡 *"Education is the passport to the future, for tomorrow belongs to those who prepare for it today."*
 
