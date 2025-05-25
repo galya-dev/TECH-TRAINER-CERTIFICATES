@@ -43,8 +43,8 @@ Portfolio: *coming soon*
 
 💡 *"Education is the passport to the future, for tomorrow belongs to those who prepare for it today."*
 
-Feedback
+📝 Feedback
+I shared this portfolio with my classmates from the AI (Yapay Zeka) course, and I received valuable feedback and encouraging comments.
+Several of my close friends and colleagues also found it impressive and inspiring.
 
-I shared this portfolio with my classmates from the Yapay Zeka course, and I received great feedback and encouragement! 👍❤🙏  
-Some of my close friends and acquaintances also said it was impressive.  
-This motivates me to keep learning and building more projects.
+This positive response motivates me to continue learning, improving, and creating even more meaningful projects. 👍❤️🙏
