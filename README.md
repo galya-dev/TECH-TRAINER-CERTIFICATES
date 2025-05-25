@@ -13,16 +13,20 @@ Dedicated to innovation, learning, and sharing knowledge in technology and educa
 🎓 CS50x – Introduction to Computer ScienceHarvardX — 2025 📄 Verified Certificate
 CS50x is Harvard University's official introduction to computer science, known worldwide as a rigorous and prestigious program.
 
-🛰️ Drone Making and Coding CertificateAltın Kariyer Akademi — 2024 📄 View Certificate
+🛰️ Drone Making and Coding Certificate 
+Altın Kariyer Akademi — 2024 📄 View Certificate
 📄 DRONE CERTIFICATE (PDF)
 
-💻 Python Coding CertificateMelik Vatan Academy — 2024 📄 View Certificate
+💻 Python Coding Certificate
+Melik Vatan Academy — 2024 📄 View Certificate
 📄 PYTHON certificate (PDF)
 
-✍️ Prompt Engineering CertificateMelik Vatan Academy — 2024 📄 View Certificate
+✍️ Prompt Engineering Certificate
+Melik Vatan Academy — 2024 📄 View Certificate
 📄 PROMPT certificate (PDF)
 
-📱 Digital Marketing CertificateAltın Kariyer Akademi — 2024 📄 View Certificate
+📱 Digital Marketing Certificate
+Altın Kariyer Akademi — 2024 📄 View Certificate
 📄 DIJITAL PAZARLAMA (PDF)
 
 🧠 Software and Web Expertise TrainingAltın Kariyer Akademi — 2024 📄 View Certificate
@@ -53,9 +57,7 @@ Email: devgalyas@gmail.com
 
 “Education is the passport to the future, for tomorrow belongs to those who prepare for it today.”
 
-I shared this portfolio with my classmates from the AI (Yapay Zeka) course and received valuable feedback and encouraging comments.
-
-This motivates me to continue learning and building meaningful tech projects. 👍❤️🙏
+I shared this portfolio with my classmates from the AI (Yapay Zeka) course and received valuable feedback and encouraging comments.This motivates me to continue learning and building meaningful tech projects. 👍❤️🙏
 
 📜 License
 
