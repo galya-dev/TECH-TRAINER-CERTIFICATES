@@ -1,7 +1,7 @@
 # 📂 TECH-TRAINER-CERTIFICATES
 
 A collection of professional certificates earned by **GALYA SARIKAYA galya-dev** during 2024–2025.  
-As a certified tech educator, I’ve successfully completed a range of technology and teaching programs in AI, Python, drone technologies, and digital marketing.
+As a certified tech educator, I’ve successfully completed a range of programs in **AI, Python, drones, and digital marketing**.
 
 ## 👩‍🏫 About Me
 
@@ -13,7 +13,7 @@ Dedicated to innovation, learning, and sharing knowledge in technology and educa
 - 🎓 **CS50x – Introduction to Computer Science**  
   *HarvardX — 2025*
 📄 [View Certificate](./CS50x_Certificate.jpg)
-🏛️ CS50x is Harvard University's official introduction to computer science, offered through edX, and recognized worldwide as a rigorous and prestigious program.
+🏛️ CS50x is Harvard University's official introduction to computer science, known worldwide as a rigorous and prestigious program._
 
 - 🛰️ **Drone Making and Coding Certificate**  
   *Altın Kariyer Akademi — 2024*
@@ -31,18 +31,24 @@ Dedicated to innovation, learning, and sharing knowledge in technology and educa
   *Altın Kariyer Akademi — 2024*
   📄 [View Certificate](./DIJITAL_PAZARLAMA_CERTIFICATE.pdf)
   
-  🌍 These certificates reflect a learning journey across two nations:  
-🇰🇿 Kazakhstan — my homeland, my roots, and where I teach and inspire  
+  🌍 Where I Learned
+
+These certificates reflect a learning journey across two nations:
+
+🇰🇿 Kazakhstan — my homeland, my roots, and where I teach and inspire
+
 🇹🇷 Turkey — where I gained international certified training in AI, Python, and technology
 
-## 📩 Contact
 
-GitHub: [@galya-dev](https://github.com/galya-dev)  
-Email: devgalyas@gmail.com  
+📬 Contact
 
-🌐 Visit my live portfolio: [GALYA SARIKAYA – Certified Tech Trainer](https://galya-dev.github.io/TECH-TRAINER-CERTIFICATES/)
+GitHub: @galya-dev
 
-🌐 Portfolio: GALYA SARIKAYA  https://github.com/galya-dev/AI-Study-Buddy.git
+Email: devgalyas@gmail.com
+
+🌐 Live Portfolio: GALYA SARIKAYA – Certified Tech Trainer
+
+🌐 AI Final Project: AI-Study-Buddy
 
 💡 *"Education is the passport to the future, for tomorrow belongs to those who prepare for it today."*
 
