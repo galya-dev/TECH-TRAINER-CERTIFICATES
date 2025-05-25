@@ -49,3 +49,7 @@ I shared this portfolio with my classmates from the AI (Yapay Zeka) course, and 
 Several of my close friends and colleagues also found it impressive and inspiring.
 
 This positive response motivates me to continue learning, improving, and creating even more meaningful projects. 👍❤️🙏
+
+## 📜 License
+
+All rights reserved © 2025 GALYA SARIKAYA galya-dev
