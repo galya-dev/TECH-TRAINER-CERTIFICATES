@@ -8,29 +8,22 @@ As a certified tech educator, I’ve successfully completed a range of programs 
 **Future AI Engineer** | Python & Web Instructor  
 Dedicated to innovation, learning, and sharing knowledge in technology and education.
 
-## 📜 Certificates (2024–2025)
+📜 Certificates (2024–2025)
 
-- 🎓 **CS50x – Introduction to Computer Science**  
-  *HarvardX — 2025*
-📄 [View Certificate](./CS50x_Certificate.jpg)
-🏛️ CS50x is Harvard University's official introduction to computer science, known worldwide as a rigorous and prestigious program._
+🎓 CS50x – Introduction to Computer ScienceHarvardX — 2025 📄 View Certificate
 
-- 🛰️ **Drone Making and Coding Certificate**  
-  *Altın Kariyer Akademi — 2024*
-📄 [View Certificate](./DRONE_CERTIFICATE.pdf)
+CS50x is Harvard University's official introduction to computer science, known worldwide as a rigorous and prestigious program.
 
-- 💻 **Python Coding Certificate**  
-  *Melik Vatan Academy — 2024*
-📄 [View Certificate](./PYTHON_certificate.pdf)
+🛰️ Drone Making and Coding CertificateAltın Kariyer Akademi — 2024 📄 View Certificate
 
-- ✍️ **Prompt Engineering Certificate**  
-  *Melik Vatan Academy — 2024*
-📄 [View Certificate](./PROMPT_certificate.pdf)
+💻 Python Coding CertificateMelik Vatan Academy — 2024 📄 View Certificate
 
-- 📱 **Digital Marketing Certificate**  
-  *Altın Kariyer Akademi — 2024*
-  📄 [View Certificate](./DIJITAL_PAZARLAMA_CERTIFICATE.pdf)
-  
+✍️ Prompt Engineering CertificateMelik Vatan Academy — 2024 📄 View Certificate
+
+📱 Digital Marketing CertificateAltın Kariyer Akademi — 2024 📄 View Certificate
+
+🧠 Software and Web Expertise TrainingAltın Kariyer Akademi — 2024 📄 View Certificate
+
   🌍 Where I Learned
 
 These certificates reflect a learning journey across two nations:
