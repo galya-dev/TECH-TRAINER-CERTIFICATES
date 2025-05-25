@@ -42,3 +42,9 @@ Email: devgalyas@gmail.com
 Portfolio: *coming soon*
 
 💡 *"Education is the passport to the future, for tomorrow belongs to those who prepare for it today."*
+
+Feedback
+
+I shared this portfolio with my classmates from the Yapay Zeka course, and I received great feedback and encouragement! 👍❤🙏  
+Some of my close friends and acquaintances also said it was impressive.  
+This motivates me to keep learning and building more projects.
