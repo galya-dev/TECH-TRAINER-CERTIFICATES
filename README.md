@@ -40,7 +40,7 @@ Dedicated to innovation, learning, and sharing knowledge in technology and educa
 GitHub: [@galya-dev](https://github.com/galya-dev)  
 Email: devgalyas@gmail.com  
 🌐 Visit my full portfolio: [GALYA SARIKAYA – Certified Tech Trainer](https://galya-dev.github.io/TECH-TRAINER-CERTIFICATES/)
-
+🌐 Portfolio: GALYA SARIKAYA  https://github.com/galya-dev/AI-Study-Buddy.git
 💡 *"Education is the passport to the future, for tomorrow belongs to those who prepare for it today."*
 
 📝 Feedback
