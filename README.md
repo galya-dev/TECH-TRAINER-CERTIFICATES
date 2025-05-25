@@ -28,13 +28,15 @@ CS50x is Harvard University's official introduction to computer science, known w
 🧠 Software and Web Expertise TrainingAltın Kariyer Akademi — 2024 📄 View Certificate
 
 
-  🌍 Where I Learned
+ 🌍 Where I Learned
 
 These certificates reflect a learning journey across two nations:
 
 🇰🇿 Kazakhstan — my homeland, my roots, and where I teach and inspire
 
 🇹🇷 Turkey — where I gained international certified training in AI, Python, and technology
+
+
 
 
 📬 Contact
