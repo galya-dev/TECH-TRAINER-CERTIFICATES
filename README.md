@@ -54,7 +54,9 @@ Email: devgalyas@gmail.com
 
 “Education is the passport to the future, for tomorrow belongs to those who prepare for it today.”
 
-I shared this portfolio with my classmates from the AI (Yapay Zeka) course and received valuable feedback and encouraging comments.This motivates me to continue learning and building meaningful tech projects. 👍❤️🙏
+I shared this portfolio with my classmates from the AI (Yapay Zeka) course and received valuable feedback and encouraging comments.
+
+This motivates me to continue learning and building meaningful tech projects. 👍❤️🙏
 
 📜 License
 
