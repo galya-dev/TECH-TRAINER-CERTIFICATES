@@ -29,7 +29,8 @@ Melik Vatan Academy — 2024 📄 View Certificate
 Altın Kariyer Akademi — 2024 📄 View Certificate
 📄 DIJITAL PAZARLAMA (PDF)
 
-🧠 Software and Web Expertise TrainingAltın Kariyer Akademi — 2024 📄 View Certificate
+🧠 Software and Web Expertise Training
+Altın Kariyer Akademi — 2025 📄 View Certificate
 
 
  🌍 Where I Learned
