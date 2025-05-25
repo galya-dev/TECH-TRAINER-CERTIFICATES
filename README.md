@@ -10,19 +10,23 @@ Dedicated to innovation, learning, and sharing knowledge in technology and educa
 
 📜 Certificates (2024–2025)
 
-🎓 CS50x – Introduction to Computer ScienceHarvardX — 2025 📄 View Certificate
-
+🎓 CS50x – Introduction to Computer ScienceHarvardX — 2025 📄 Verified Certificate
 CS50x is Harvard University's official introduction to computer science, known worldwide as a rigorous and prestigious program.
 
 🛰️ Drone Making and Coding CertificateAltın Kariyer Akademi — 2024 📄 View Certificate
+📄 DRONE CERTIFICATE (PDF)
 
 💻 Python Coding CertificateMelik Vatan Academy — 2024 📄 View Certificate
+📄 PYTHON certificate (PDF)
 
 ✍️ Prompt Engineering CertificateMelik Vatan Academy — 2024 📄 View Certificate
+📄 PROMPT certificate (PDF)
 
 📱 Digital Marketing CertificateAltın Kariyer Akademi — 2024 📄 View Certificate
+📄 DIJITAL PAZARLAMA (PDF)
 
 🧠 Software and Web Expertise TrainingAltın Kariyer Akademi — 2024 📄 View Certificate
+
 
   🌍 Where I Learned
 
