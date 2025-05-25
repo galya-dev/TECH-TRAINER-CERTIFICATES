@@ -50,15 +50,12 @@ Email: devgalyas@gmail.com
 
 🌐 AI Final Project: AI-Study-Buddy
 
-💡 *"Education is the passport to the future, for tomorrow belongs to those who prepare for it today."*
+💬 Feedback
 
-📝 Feedback
+“Education is the passport to the future, for tomorrow belongs to those who prepare for it today.”
 
-I shared this portfolio with my classmates from the AI (Yapay Zeka) course, and I received valuable feedback and encouraging comments.
-Several of my close friends and colleagues also found it impressive and inspiring.
+I shared this portfolio with my classmates from the AI (Yapay Zeka) course and received valuable feedback and encouraging comments.This motivates me to continue learning and building meaningful tech projects. 👍❤️🙏
 
-This positive response motivates me to continue learning, improving, and creating even more meaningful projects. 👍❤️🙏
+📜 License
 
-## 📜 License
-
-All rights reserved © 2025 GALYA SARIKAYA galya-dev
+All rights reserved © 2025 GALYA SARIKAYA | galya-dev
